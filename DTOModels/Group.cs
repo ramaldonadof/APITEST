@@ -11,6 +11,6 @@ namespace APITEST.DTOModels
         //Grupo 1 / 2 / 3 / 4 / 5
         public string GroupName { get; set; }
         //"John Smith", "Paul"....
-        public List<Student> Students { get; set; }
+        public List<StudentDTO> Students { get; set; }
     }
 }

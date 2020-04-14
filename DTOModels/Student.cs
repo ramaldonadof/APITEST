@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace APITEST.DTOModels
 {
-    public class Student //Generador de JSON'S
+    public class StudentDTO //Generador de JSON'S
     {
         public string Name { get; set; }
     }

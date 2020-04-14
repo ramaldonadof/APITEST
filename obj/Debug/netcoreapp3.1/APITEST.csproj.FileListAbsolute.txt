@@ -2,7 +2,6 @@ C:\Users\Windows 10\Desktop\Certificacion\Dotnet\APITEST\bin\Debug\netcoreapp3.1
 C:\Users\Windows 10\Desktop\Certificacion\Dotnet\APITEST\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\Windows 10\Desktop\Certificacion\Dotnet\APITEST\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\Windows 10\Desktop\Certificacion\Dotnet\APITEST\bin\Debug\netcoreapp3.1\APITEST.exe
-C:\Users\Windows 10\Desktop\Certificacion\Dotnet\APITEST\obj\Debug\netcoreapp3.1\APITEST.csprojAssemblyReference.cache
 C:\Users\Windows 10\Desktop\Certificacion\Dotnet\APITEST\obj\Debug\netcoreapp3.1\APITEST.AssemblyInfoInputs.cache
 C:\Users\Windows 10\Desktop\Certificacion\Dotnet\APITEST\obj\Debug\netcoreapp3.1\APITEST.AssemblyInfo.cs
 C:\Users\Windows 10\Desktop\Certificacion\Dotnet\APITEST\obj\Debug\netcoreapp3.1\APITEST.RazorTargetAssemblyInfo.cache
